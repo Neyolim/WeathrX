@@ -2,7 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // // import viteLogo from '/vite.svg'
 import './App.css'
-import WeatherApp from './WeatherApp'
+import WeatherApp from './WeatherApp.jsx'
 
 function App() {
 

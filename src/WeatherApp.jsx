@@ -1,6 +1,6 @@
 import { useState } from "react";
-import InfoBox from "./InfoBox";
-import SearchBox from "./searchBox";
+import InfoBox from "./InfoBox.jsx";
+import SearchBox from "./SearchBox.jsx"
 import Typography from '@mui/material/Typography';
 
 export default function WeatherApp() {
